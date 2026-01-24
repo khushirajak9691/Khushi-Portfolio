@@ -67,6 +67,11 @@ function Education() {
                             {education.title}
                           </p>
                           <p className="text-sm sm:text-base">{education.institution}</p>
+                            {education.percentage && (
+                          <p className="mt-1 text-sm sm:text-base text-[#16f2b3] font-semibold">
+                             Score: {education.percentage}
+                          </p>
+                          )}
                         </div>
                       </div>
                     </div>

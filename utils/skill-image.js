@@ -72,6 +72,15 @@ import vuetifyjs from '../app/assets/svg/skills/vuetifyjs.svg';
 import webix from '../app/assets/svg/skills/webix.svg';
 import wolframalpha from '../app/assets/svg/skills/wolframalpha.svg';
 import wordpress from '../app/assets/svg/skills/wordpress.svg';
+import responsive from '../app/assets/svg/skills/responsive.svg';
+import uiux from '../app/assets/svg/skills/uiux.svg';
+import nodejs from '../app/assets/svg/skills/nodejs.svg';
+import express from '../app/assets/svg/skills/express.svg';
+import mongoose from '../app/assets/svg/skills/mongoosejs.svg';
+import github from '../app/assets/svg/skills/github.svg';
+import postman from '../app/assets/svg/skills/postman.svg';
+
+
 
 import pandas from '../app/assets/svg/skills/pandas.svg';
 import scikitlearn from '../app/assets/svg/skills/scikit-learn.svg';
@@ -81,6 +90,7 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+
 
 
 
@@ -251,7 +261,32 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'responsive design':
+      return responsive;
+    case 'ui/ux basics':
+     return uiux;
+         case 'mongoose':
+    case 'mongoosejs':
+      return mongoose;
+
+    case 'github':
+      return github;
+
+    case 'nodejs':
+    case 'node js':
+    case 'node.js':
+      return nodejs;
+
+    case 'express':
+    case 'express js':
+    case 'express.js':
+      return express;
+
+    case 'postman':
+      return postman;
+
+    
     default:
-      break;
+      return null;
   }
 }
