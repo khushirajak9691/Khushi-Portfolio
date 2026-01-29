@@ -1,18 +1,18 @@
 export const personalData = {
-  name: "Hirdiyansh Mishra",
+  name: "Khushi Rajak",
   profile: '/me.png',
-  designation: "Frontend Developer, React & Modern UI Enthusiast",
-  description: "My name is Hirdiyansh Mishra. I enjoy building clean, responsive, and interactive web interfaces that feel smooth and easy to use. I’m constantly learning and improving my skills in JavaScript and React by creating real projects and experimenting with animations and modern UI techniques. I love solving problems, exploring new technologies, and turning ideas into practical web solutions that people actually enjoy using.",
-  email: 'hirdiyanshmishra@gmail.com',
-  phone: '+91 9028741594',
+  designation: "Full Stack JavaScript Developer | MERN & UI-UX Engineer",
+  description: "My name is Khushi Rajak. Passionate Full Stack Web Developer skilled in building responsive, user-friendly web applications using modern technologies. Strong interest in clean UI, scalable backend systems, and continuous learning to deliver high-quality digital solutions.",
+  email: 'khushirajak7538@gmail.com',
+  phone: '+91 9691120720',
   address: 'Jabalpur, Madhya Pradesh, India ',
-  github: 'https://github.com/Hir-diyansh-01',
+  github: 'https://github.com/khushirajak9691',
   facebook: '',
-  linkedIn: 'https://www.linkedin.com/in/hirdiyansh-mishra-288b9b301',
+  linkedIn: 'https://www.linkedin.com/in/khushirajak/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
   twitter: '',
   stackOverflow: '',
   leetcode: "",
   // devUsername: "StrongBlue0703",
-  devUsername: "Hir-diyansh-01",
-  resume: "https://drive.google.com/file/d/1UfA4_goeAVa2J6IRbtOdVRkwp7utWvyI/view?usp=sharing"
+  devUsername: "khushirajak9691",
+  resume: "https://drive.google.com/file/d/1wvS0P3kAktH5yzv4-pf1afUAVQNS7Ot3/view?usp=sharing"
 }

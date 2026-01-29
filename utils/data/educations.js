@@ -13,7 +13,7 @@ export const educations = [
     title: "Higher Secondary Certificate",
     duration: "2021 - 2022",
     institution: "Scottish Convent School",
-    percentage: "70%",
+    percentage: "72%",
   },
   {
     id: 3,

@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Hirdiyansh Mishra - Full Stack Web Developer",
+  title: "Portfolio of Khushi Rajak - Full Stack Web Developer",
   description:
-    "This is the portfolio of Hirdiyansh Mishra. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Khushi Rajak. I am a Full-Stack Developer skilled in building scalable web applications with modern technologies. Strong focus on clean code, performance, and user-centric design. Passionate about creating reliable and efficient digital solutions.",
 };
 
 export default function RootLayout({ children }) {

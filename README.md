@@ -1,4 +1,4 @@
-# 🚀 Hirdiyansh Mishra – Developer Portfolio
+# 🚀 Khushi Rajak – Developer Portfolio
 
 This is my personal developer portfolio website built using **Next.js** and **Tailwind CSS**.  
 It showcases my projects, skills, experience, and contact details in a clean and responsive layout.
@@ -27,4 +27,4 @@ It showcases my projects, skills, experience, and contact details in a clean and
 
 Clone the project:
 ```bash
-git clone https://github.com/Hir-diyansh-01/Hirdiyansh-Portfolio.git
+git clone https://github.com/khushirajak9691/Khushi-Portfolio.git
