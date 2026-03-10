@@ -15,7 +15,7 @@ export const projectsData = [
         tools: ['React', 'Tailwind CSS', "Node.js", "JavaScript", "MongoDb", "AWS SDK", "Babel", "ESLint"],
         role: 'Frontend & Backend Developer',
         code: 'https://github.com/khushirajak9691/Quiz-portal',
-        demo: 'https://finance-tracker-mocha-one.vercel.app/',
+        demo: '',
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ export const projectsData = [
         tools: ['React', 'Bootstrap', 'CSS', 'Express.js', 'MongoDB', 'Chart.js', 'JWT'],
         code: 'https://github.com/khushirajak9691/finance-tracker-major-project-',
         role: 'MERN Stack Developer',
-        demo: '',
+        demo: 'https://finance-tracker-mocha-one.vercel.app/',
     },
     // {
     //     id: 4,
