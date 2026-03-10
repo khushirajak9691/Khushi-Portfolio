@@ -15,7 +15,7 @@ export const projectsData = [
         tools: ['React', 'Tailwind CSS', "Node.js", "JavaScript", "MongoDb", "AWS SDK", "Babel", "ESLint"],
         role: 'Frontend & Backend Developer',
         code: 'https://github.com/khushirajak9691/Quiz-portal',
-        demo: '',
+        demo: 'https://quiz-portal-psi.vercel.app/',
     },
     {
         id: 3,
