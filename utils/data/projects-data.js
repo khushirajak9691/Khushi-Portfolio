@@ -6,7 +6,7 @@ export const projectsData = [
         tools: ['Express.js', 'MongoDB', 'OpenAI API', 'React', 'Node.js', 'Cloudinary', 'JWT', 'CSS', 'REST APIs', 'Bootstrap'],
         role: 'Full Stack Developer',
         code: 'https://github.com/khushirajak9691/MAJORPROJECT---StaySphere-Travel-Platform',
-        demo: '',
+        demo: 'https://majorproject-staysphere-travel-platform.onrender.com/',
     },
     {
         id: 2,
