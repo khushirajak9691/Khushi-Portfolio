@@ -6,7 +6,7 @@ export const educations = [
     title: "Bachelor Degree",
     duration: "2022 - Present",
     institution: "Baderia Global Institute of Engineering and Management",
-    percentage: "Pursuing",
+    percentage: "7.41 CGPA",
   },
   {
     id: 2,
@@ -23,3 +23,4 @@ export const educations = [
     percentage: "87%",
   }
 ];
+
